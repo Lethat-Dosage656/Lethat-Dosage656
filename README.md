@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lethat-Dosage656
-- 👀 I’m interested in ...Azure active directory
-- 🌱 I’m currently learning ... Pycharm
-- 💞️ I’m looking to collaborate on ...Azure,Linux kali
+- 👀 I’m interested in ...developing games making websites and anything to do with cloud managment
+- 🌱 I’m currently learning ... bash,cli,jason,python,ruby,virtual studio
+- 💞️ I’m looking to collaborate on ...AWS system management and cloud computing
 - 📫 How to reach me ...@mention Lethal-dosage656
 
 <!---
